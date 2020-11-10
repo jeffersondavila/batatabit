@@ -1,0 +1,28 @@
+@media (max-width:800px)
+{
+    .planes-bitcoin .planes-bitcoin--pages {
+        display: block;/**/
+    }
+    .pages-container{
+        width: 70%;
+        margin-bottom: 35px;
+    }
+}
+@media (max-width:985px){
+    .tasas_de_cambio-tablas{
+        display: block;
+        width: 100%;
+    }
+    .articles-container{
+        width: 84%;
+    }
+    .container-cards {
+        max-width: 475px;
+    }
+}
+@media (max-width:1038px){
+    .articles-container{
+        width: 90%;
+    }
+
+}
